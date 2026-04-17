@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @mjid8
-- 👀 I’m interested in networking , cloud management , task automation (mainly python)
-- 🌱 I’m currently learning task automation and cloud management
+-  Hi, I’m @mjid8
+-  fielded in  networking , cloud management , task automation , IT Essentials , cloud management
 - 📫 How to reach me majidbenaboud@gmail.com
 
 <!---
